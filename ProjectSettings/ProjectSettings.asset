@@ -611,10 +611,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 56217dae-8094-4907-8fa3-34f78b10d1b6
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: UnityBoard
+  organizationId: southerncross
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
